@@ -1,0 +1,15 @@
+.idea/
+node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
+.env
+coverage/
+.DS_Store
+
+.firebaserc
+.firebase/
+firebase-debug.log
+
+src/config/serviceAccountKey.json
+src/config/dev.js
